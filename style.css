@@ -1,4 +1,5 @@
-p, table {
+p,
+table {
   color: red;
   width: 300px;
   border: 15px solid purple;
